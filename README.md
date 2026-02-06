@@ -169,12 +169,3 @@ Contributions are welcome! Feel free to:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-<div align="center">
-
-**Made with love for secure coding**
-
-Star this repo if you find it useful!
-
-</div>
-# secret-scanner
